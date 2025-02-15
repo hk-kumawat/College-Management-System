@@ -26,7 +26,8 @@ Building the **College Management System** was a great learning experience that 
 - **Designing a User-Friendly Interface:**  
   - I focused on **easy navigation** between different sections. Adding **error messages** and **input validation** made the system more user-friendly.  
 
-- **Overcoming Challenges:**  
+
+ **Overcoming Challenges:**  
   - **Fixing Errors:** I faced issues with **database connections** and **data validation**, but solving them improved my troubleshooting skills.  
   - **Balancing Features & Simplicity:** I made sure the system had all necessary features while keeping it easy to use.  
   - **Organizing Code:** Handling multiple modules in a structured way prepared me for working on **bigger projects** in the future.  
