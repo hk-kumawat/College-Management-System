@@ -1,0 +1,45 @@
+# .gitignore for C#/Visual Studio (keeps Resources/ folder intact)
+
+### Build Artifacts ###
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.xml
+
+### Visual Studio ###
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.DotSettings
+
+### Packages ###
+packages/
+*.nupkg
+*.nuspec
+
+### Temp/Log Files ###
+[Tt]emp/
+[Tt]mp/
+*.log
+*.tlog
+
+### OS Junk ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### Code Analysis ###
+*.lastcodeanalysissucce
+
+### Auto-generated Files ###
+*Designer.cs
+*.Generated.cs
+
+# BUT KEEP THESE IMPORTANT FILES:
+!*.resx
+!*.settings
+!*.config
