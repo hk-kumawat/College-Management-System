@@ -89,7 +89,7 @@ This project is more than just an application—it’s proof of how different te
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/hk-kumawat/College-Management-System.git
-   cd hk-kumawat-college-management-system
+   cd College-Management-System
    ```
    
 2. **Open the Solution:**
