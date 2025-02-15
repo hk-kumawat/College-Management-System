@@ -46,7 +46,7 @@ This project is more than just an application—it’s proof of how different te
 5. [Technologies Used](#technologies-used)
 6. [Database Schema](#database-schema)
 7. [Directory Structure](#directory-structure)
-8. [Future Enhancements](#Future-Enhancements)
+8. [Future Enhancements](#future-enhancements)
 9. [Contributing](#contributing)
 10. [License](#license)
 11. [Contact](#contact)
@@ -255,7 +255,7 @@ Presents essential information about the college or institution.
 <br>
 
 
-## Directory Structure 📁
+## Directory Structure📁
 
 ```plaintext
 hk-kumawat-college-management-system/
