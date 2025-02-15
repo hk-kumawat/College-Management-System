@@ -10,7 +10,7 @@ The College Management System is a robust Windows desktop application designed t
 
 <br>
 
-### Learning Journey 🗺️  
+## Learning Journey 🗺️  
 
 Building the **College Management System** was a great learning experience that helped me improve my skills in different areas:  
 
