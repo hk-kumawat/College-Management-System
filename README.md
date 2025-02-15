@@ -258,25 +258,25 @@ Presents essential information about the college or institution.
 
 ```plaintext
 hk-kumawat-college-management-system/
-├── README.md                   # Project documentation
+├── README.md                    # Project documentation
 ├── CollageManagementSystem.sln  # Visual Studio solution file
 └── CollageManagementSystem/     # Main project folder
-    ├── About_Us.*              # About Us module files
-    ├── Add_Teacher.*           # Teacher addition module files
-    ├── App.config              # Application configuration
-    ├── Dashboard.*             # Dashboard module files
-    ├── Fees.*                  # Fees management module files
-    ├── Form1.*                 # Login form files
-    ├── New_Admission.*         # New Admission module files
-    ├── Register.*              # User registration module files
-    ├── Remove_Student.*        # Remove Student module files
-    ├── Search_Student.*        # Search Student module files
-    ├── Search_Teacher.*        # Search Teacher module files
-    ├── Student_Individual_Detail.*  # Individual student detail files
-    ├── Upgrade_Semester.*      # Semester upgrade module files
-    ├── packages.config         # Package configuration
-    ├── Properties/             # Project properties and resources
-    └── Resources/              # Additional resource files
+    ├── About_Us.cs              # About Us module files
+    ├── Add_Teacher.cs           # Teacher addition module files
+    ├── App.config               # Application configuration
+    ├── Dashboard.cs             # Dashboard module files
+    ├── Fees.cs                  # Fees management module files
+    ├── Form1.cs                 # Login form files
+    ├── New_Admission.cs         # New Admission module files
+    ├── Register.cs              # User registration module files
+    ├── Remove_Student.cs        # Remove Student module files
+    ├── Search_Student.cs        # Search Student module files
+    ├── Search_Teacher.cs        # Search Teacher module files
+    ├── Student_Individual_Detail.cs  # Individual student detail files
+    ├── Upgrade_Semester.cs      # Semester upgrade module files
+    ├── packages.config          # Package configuration
+    ├── Properties/              # Project properties and resources
+    └── Resources/               # Additional resource files
 ```
 
 <br>
