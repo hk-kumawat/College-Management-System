@@ -41,7 +41,7 @@
 
 ---
 
-## 🎯 Overview
+## 🎯Overview
 
 The **College Management System** is a comprehensive Windows desktop application designed to streamline and modernize academic administration in educational institutions. Built with **C# .NET** and **Windows Forms**, this robust solution provides an intuitive interface for managing student records, faculty information, fee collection, and academic progress tracking.
 
@@ -56,7 +56,7 @@ The **College Management System** is a comprehensive Windows desktop application
 
 ---
 
-## ✨ Key Features
+## ✨Key Features
 
 <table>
 <tr>
@@ -130,7 +130,7 @@ The **College Management System** is a comprehensive Windows desktop application
 
 ---
 
-## 🖼️ Demo
+## 📲Demo
 
 ### Application Workflow
 
@@ -246,7 +246,7 @@ Displays essential information about the institution.
 
 ---
 
-## 💻 System Requirements
+## 💻System Requirements
 
 ### Prerequisites
 
@@ -274,7 +274,7 @@ Before installing the College Management System, ensure your system meets the fo
 
 ---
 
-## 🛠️ Installation
+## 💻Installation
 
 Follow these steps to set up the College Management System on your local machine:
 
@@ -445,7 +445,7 @@ string connectionString = "data source=YOUR_PC_NAME\\SQLEXPRESS; database=colleg
 
 ---
 
-## 🚀 Usage Guide
+## 🚀Usage Guide
 
 ### Getting Started
 
@@ -542,7 +542,7 @@ The Dashboard is your central hub for accessing all modules:
 
 ---
 
-## 🔧 Technologies Used
+## 🔧Technologies Used
 
 ### Core Technologies
 
@@ -594,7 +594,7 @@ The Dashboard is your central hub for accessing all modules:
 
 ---
 
-## 🏗️ Architecture
+## 🔧Architecture
 
 ### Application Architecture
 
@@ -655,7 +655,7 @@ The Dashboard is your central hub for accessing all modules:
 
 ---
 
-## 📊 Database Schema
+## 📊Database Schema
 
 ### Entity Relationship Overview
 
@@ -789,7 +789,7 @@ INSERT INTO Teacher VALUES
 
 ---
 
-## 📁 Directory Structure
+## 📁Directory Structure
 
 ```plaintext
 College-Management-System/
@@ -894,7 +894,7 @@ College-Management-System/
 
 ---
 
-## 🔧 Troubleshooting & FAQ
+## 🔧Troubleshooting & FAQ
 
 ### Common Issues and Solutions
 
@@ -1157,7 +1157,7 @@ Currently, passwords are stored in Firebase. For production use, implement:
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀Future Enhancements
 
 ### Planned Features
 
@@ -1231,7 +1231,7 @@ Have a feature request? [Open an issue](https://github.com/hk-kumawat/College-Ma
 
 ---
 
-## 🤝 Contributing
+## 🤝Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create! Any contributions you make are **greatly appreciated**.
 
@@ -1328,7 +1328,7 @@ Even if you're not a developer, you can help!
 
 ---
 
-## 📝 License
+## 📝License
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for complete details.
 
@@ -1363,7 +1363,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 📬 Contact
+## 📬Contact
 
 <div align="center">
 
