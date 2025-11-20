@@ -15,7 +15,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
-[Features](#features) • [Demo](#demo) • [Installation](#installation) • [Documentation](#technologies-used) • [Contributing](#contributing)
+[Features](#key-features) • [Demo](#demo) • [Installation](#installation) • [Documentation](#technologies-used) • [Contributing](#contributing)
 
 </div>
 
